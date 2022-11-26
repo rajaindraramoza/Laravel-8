@@ -18,7 +18,8 @@ composer create-project laravel/laravel belajarlaravel8 "8._._"
 ## Ekstensi Laravel
 
 1. PHP Intelephense
-2. Laravel Blade Snippets
-3. Laravel Blade Spacer
+2. Laravel Blade Snippets :
+   https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade
+3. Laravel Blade Spacer : https://marketplace.visualstudio.com/items?itemName=austenc.laravel-blade-spacer
 4. Laravel Artisan
 5. Laravel Snippet
