@@ -12,5 +12,12 @@ Konfigurasi :
 3.  Install Code Editor (VsCode, PHPStorm, dll)
     https://code.visualstudio.com/
 
-Code
+Code :
 composer create-project laravel/laravel belajarlaravel8 "8._._"
+
+Ekstensi
+PHP Intelephense
+Laravel Blade Snippets
+Laravel Blade Spacer
+Laravel Artisan
+Laravel Snippet
