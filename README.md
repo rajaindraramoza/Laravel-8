@@ -24,3 +24,5 @@ composer create-project laravel/laravel belajarlaravel8 "8._._"
 3. Laravel Blade Spacer : https://marketplace.visualstudio.com/items?itemName=austenc.laravel-blade-spacer
 4. Laravel Artisan
 5. Laravel Snippet
+
+tes
