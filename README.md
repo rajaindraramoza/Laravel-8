@@ -2,7 +2,7 @@
 
 by: Raja Indra Ramoza
 
-Konfigurasi :
+## Konfigurasi
 
 1.  Install Composer
     https://getcomposer.org/Composer-Setup.exe
@@ -15,9 +15,10 @@ Konfigurasi :
 Code :
 composer create-project laravel/laravel belajarlaravel8 "8._._"
 
-Ekstensi
-PHP Intelephense
-Laravel Blade Snippets
-Laravel Blade Spacer
-Laravel Artisan
-Laravel Snippet
+## Ekstensi Laravel
+
+1. PHP Intelephense
+2. Laravel Blade Snippets
+3. Laravel Blade Spacer
+4. Laravel Artisan
+5. Laravel Snippet
