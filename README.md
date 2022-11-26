@@ -2,13 +2,14 @@
 
 by: Raja Indra Ramoza
 
-Konfigurasi : 1. Install Composer
-https://getcomposer.org/Composer-Setup.exe
+Konfigurasi :
 
-    2. Install Xampp
+1.  Install Composer
+    https://getcomposer.org/Composer-Setup.exe
+2.  Install Xampp
     https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.25/xampp-windows-x64-8.0.25-0-VS16-installer.exe
 
-    3. Install Code Editor (VsCode, PHPStorm, dll)
+3.  Install Code Editor (VsCode, PHPStorm, dll)
     https://code.visualstudio.com/
 
 Code
